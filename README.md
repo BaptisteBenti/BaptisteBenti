@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Rolldice](https://github.com/BaptisteBenti/rolldice)
+- 📫 Contact me on [linkedin](https://www.linkedin.com/in/benti/)
+- ⚡ Take a look at my [codepen](https://codepen.io/bbenti) profile
+
 <!--
 **BaptisteBenti/BaptisteBenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
